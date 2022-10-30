@@ -2,7 +2,7 @@
 
 1. Click the "Use this template" button to create a new fork of this repository.
 
-2. Install [deliverybot](https://github.com/apps/deliverybot) on the new repo.
+2. Install [deliverybot](https://github.com/apps/deliverybot) on the new repo.test
 
 3. Push a commit to your new fork and watch the example workflows kick off!
 
